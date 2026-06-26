@@ -1,0 +1,32 @@
+SMART ROOM AUTOMATION USING ESP32
+
+Abstract:
+This project automates home appliances using an ESP32 microcontroller. It controls lights and fans through Wi-Fi, providing convenience and energy efficiency.
+
+Components:
+• ESP32
+• Relay Module
+• Breadboard
+• Jumper Wires
+• LED
+• Fan
+
+Software:
+• Arduino IDE
+
+Working:
+The ESP32 receives commands through serial/Wi-Fi and switches the connected appliances using relay modules.
+
+Advantages:
+• Easy to use
+• Low cost
+• Energy efficient
+• IoT based
+
+Future Scope:
+• Mobile App Control
+• Voice Assistant
+• Temperature and Humidity Monitoring
+
+Conclusion:
+The project demonstrates how IoT can automate home appliances using ESP32.

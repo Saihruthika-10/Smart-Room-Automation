@@ -1,0 +1,8 @@
+ESP32 Development Board
+Relay Module (2 Channel)
+Breadboard
+Jumper Wires
+LED Bulb
+DC Fan
+USB Cable
+Power Supply
